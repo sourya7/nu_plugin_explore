@@ -5,9 +5,9 @@ name = "nu_plugin_explore"
 [dependencies]
 anyhow = "1.0.97"
 crossterm = { version = "0.28.1", features = ["use-dev-tty"] }
-nuon = "0.102.0"
-nu-plugin = "0.102.0"
-nu-protocol = "0.102.0"
+nuon = "0.104.0"
+nu-plugin = "0.104.0"
+nu-protocol = "0.104.0"
 ratatui = "0.29.0"
 url = "2.5.4"
 
