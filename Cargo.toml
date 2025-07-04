@@ -5,9 +5,9 @@ name = "nu_plugin_explore"
 [dependencies]
 anyhow = "1.0.97"
 crossterm = { version = "0.28.1", features = ["use-dev-tty"] }
-nuon = "0.104.0"
-nu-plugin = "0.104.0"
-nu-protocol = "0.104.0"
+nuon = "0.105.0"
+nu-plugin = "0.105.0"
+nu-protocol = "0.105.0"
 ratatui = "0.29.0"
 url = "2.5.4"
 
@@ -17,4 +17,4 @@ bench = false
 [package]
 edition = "2021"
 name = "nu_plugin_explore"
-version = "0.104.0"
+version = "0.105.0"
